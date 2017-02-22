@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Christian165HW3.unity
+  isLoaded: 1
+  isActive: 1
